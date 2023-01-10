@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Life-Chat/static/css/main.444f2392.css",
+    "main.js": "/Life-Chat/static/js/main.a5be8029.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Life-Chat/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Life-Chat/index.html",
+    "main.444f2392.css.map": "/Life-Chat/static/css/main.444f2392.css.map",
+    "main.a5be8029.js.map": "/Life-Chat/static/js/main.a5be8029.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Life-Chat/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.444f2392.css",
+    "static/js/main.a5be8029.js"
+  ]
+}
